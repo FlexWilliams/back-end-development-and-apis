@@ -1,0 +1,15 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Checks for prime numbers",
+  "keywords": [
+    "primes"
+  ],
+  "license": "ISC",
+  "author": "Alex W.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
